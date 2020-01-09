@@ -1,0 +1,7 @@
+C:\Users\conor\source\repos\LearningDependencyInjection\LearningDependencyInjection\bin\Debug\LearningDependencyInjection.exe.config
+C:\Users\conor\source\repos\LearningDependencyInjection\LearningDependencyInjection\bin\Debug\LearningDependencyInjection.exe
+C:\Users\conor\source\repos\LearningDependencyInjection\LearningDependencyInjection\bin\Debug\LearningDependencyInjection.pdb
+C:\Users\conor\source\repos\LearningDependencyInjection\LearningDependencyInjection\obj\Debug\LearningDependencyInjection.csprojAssemblyReference.cache
+C:\Users\conor\source\repos\LearningDependencyInjection\LearningDependencyInjection\obj\Debug\LearningDependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\conor\source\repos\LearningDependencyInjection\LearningDependencyInjection\obj\Debug\LearningDependencyInjection.exe
+C:\Users\conor\source\repos\LearningDependencyInjection\LearningDependencyInjection\obj\Debug\LearningDependencyInjection.pdb
